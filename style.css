@@ -224,7 +224,7 @@ body {
     display: flex;
     flex-direction: column;
     width: 150px;
-    margin: 4rem auto;
+    margin: 1rem auto;
   }
 
   .scissor {
