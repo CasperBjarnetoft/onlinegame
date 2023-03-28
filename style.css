@@ -206,13 +206,9 @@ body {
   .button {
     position: absolute;
     left: 3%;
-    top: 2%;
+    top: 16%;
   }
 
-  .headeroutline {
-    margin-top: 5rem;
-  }
-  
   .scorecard {
     background-color: white;
     padding: 0rem 0.9rem;
