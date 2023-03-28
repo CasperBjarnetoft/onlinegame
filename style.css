@@ -270,17 +270,17 @@ body {
   }
 
   .contest img {
-    width: 75px;
-    height: 75px;
+    width: 50px;
+    height: 50px;
   }
 
   .resultimg {
     top: 0;
     left: 0;
     border-radius: 50%;
-    padding: 3rem;
-    margin-left: 1rem;
-    margin-right: 1rem;
+    padding: 1rem;
+    width: 100px;
+    margin: auto;
   }
   
 }
